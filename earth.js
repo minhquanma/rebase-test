@@ -1,3 +1,6 @@
 console.log('earth')
 
-export {}
+function Earth() {
+  console.log('this is from earth')
+}
+export {Earth}
