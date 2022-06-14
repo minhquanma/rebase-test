@@ -1,3 +1,9 @@
 console.log('mars')
 
-export {}
+function Mars() {
+  return 'this is mars'
+}
+
+export {
+  Mars
+}
