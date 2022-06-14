@@ -1,6 +1,6 @@
-console.log('earth')
+console.log("earth");
 
 function Earth() {
-  console.log('this is from earth')
+  console.log("this is from earth");
 }
-export {Earth}
+export { Earth };
