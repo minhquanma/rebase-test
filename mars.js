@@ -1,7 +1,7 @@
 console.log("mars");
 
 function Mars() {
-  console.log("this is Mars");
+  console.log("Hello HQ this is Mars");
 }
 
 function Moon() {
