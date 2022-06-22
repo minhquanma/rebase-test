@@ -1,7 +1,11 @@
 console.log("mars");
 
 function Mars() {
-  console.log("this is mars");
+  console.log("Hello HQ this is Mars");
 }
 
-export { Mars };
+function Moon() {
+  console.log("this is Mars's moon");
+}
+
+export { Mars, Moon };
