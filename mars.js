@@ -1,9 +1,7 @@
-console.log('mars')
+console.log("mars");
 
 function Mars() {
-  return 'this is mars'
+  console.log("this is mars");
 }
 
-export {
-  Mars
-}
+export { Mars };
